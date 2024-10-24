@@ -7,7 +7,7 @@ const fileCancelButton = document.querySelector("#file-cancel");
 const chatbotToggler = document.querySelector("#chatbot-toggler");
 const closeChatbot = document.querySelector("#close-chatbot");
 
-const API_KEY = "AIzaSyAyTeI3-Es6ATRgh6AmFearkxHvkiCX1rQ";
+const API_KEY = "";//add ur own key
 const API_URL = ``;//add ur own api
 
 const userData = {
